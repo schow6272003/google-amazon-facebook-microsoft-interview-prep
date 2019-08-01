@@ -6,10 +6,10 @@ Personal curation guide of interview preparation materials and timeline for the 
 
 ## Pre-requisite courses/knowledge (suggested-not required) (1-1.5 year) 
 
- ### Thoughts
+### Thoughts
 I recommend having at least a general knowledge of some these subjects to speed up the learning process. Some of these subjects are not required but can helpful in learning.
 
- ### Math
+### Math
 Pre-Calculus, Calculus I-III (A-C) w/ Analytic Geometry, Probability & Statistics, Engineering Mathematics, Probability & Statistics, Differential Equations, Linear Algebra, Number Theory & Cryptography.
 
 ### CS/Engineering
@@ -23,33 +23,31 @@ Discrete Mathematics/Structures, Algorithms & Data Structures, Programming in C/
 | Week Timeline | Topic | Suggested Content | Suggested Hours | Online Resources |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 
-| 1-8 | Discrete Math/Structures | See book section below for expanded list. Recommendations: https://www.amazon.com/Mathematical-Structures-Computer-Science-Gersting-ebook/dp/B00V46MKGG | 100-200 | Recommendations: https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz | 
+| 1-8 | Discrete Math & Structures | See book section below for expanded list. Recommendations: [Mathematical Structures & Computer Science by Gersting](https://www.amazon.com/Mathematical-Structures-Computer-Science-Gersting-ebook/dp/B00V46MKGG) | 100-200 | Recommendations: [TheTrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) | 
 
-| 9-14 | Programming Language Book of your choice (C/C++, Python, Swift/Objective-C/Java, JS ,etc.) | See section below for book list. Recommendations https://www.amazon.com/C-Programming-Language-4th/dp/0321563840, | 100-200 hours | https://www.udacity.com/course/c-for-programmers--ud210 |
+| 9-14 | Programming Language Book of your choice (C/C++, Python, Swift/Objective-C/Java, JS ,etc.) | See book section below for expanded list. Recommendations: [The C++ Programming Language](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) | 100-200 hours | [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) |
 
-| 15-30 | Algorithms & Data Structures | See book section below for expanded list. Recommendations: https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844 | 300-500 | https://www.youtube.com/watch?v=JPyuH4qXLZ0&list=PL8B24C31197EC371C | 
+| 15-30 | Algorithms & Data Structures | See book section below for expanded list. Recommendations: [Introduction to  Algorithms by Thomas Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) | 300-500 | Recommendations: [Introduction to  Algorithms Course](https://www.youtube.com/watch?v=JPyuH4qXLZ0&list=PL8B24C31197EC371C) | 
 
-| 31-35 | Coding Exercises | See book section below for expanded list. Recommendations: http://www.crackingthecodinginterview.com/ , https://leetcode.com/ , https://www.hackerrank.com/ , https://www.careercup.com/  | 100-200 | https://www.amazon.com/Mathematical-Structures-Computer-Science-Gersting-ebook/dp/B00V46MKGG | 
+| 31-35 | Coding Exercises | See book section below for expanded list. Recommendations: [Cracking the Coding Interview by Gayle Laakmann](http://www.crackingthecodinginterview.com/) , [LeetCode](https://leetcode.com/) , [HackerRank](https://www.hackerrank.com/) , [CareerCup](https://www.careercup.com/) | 100-200 | Recommendations: [CS Dogo](http://bit.ly/2yxAYQo) | 
 
-| 35-38 | System Design & Dynamic Programming | See book section below for expanded list. Recommendations: https://amzn.to/2YfYH78 , https://amzn.to/2ywz2aS, https://amzn.to/3341Mpz| 50-100 | https://www.educative.io/collection/5668639101419520/5649050225344512 | 
+| 35-38 | System Design & Dynamic Programming | See book section below for expanded list. Recommendations: [Designing Data-Intensive Applications by Kleppmann](https://amzn.to/2YfYH78) , [The Algorithm Design Manual](https://amzn.to/2ywz2aS), [Elements of Programming Interviews](https://amzn.to/3341Mpz) | 50-100 | Recommendations: [Grokking the System Design Interview Course](http://bit.ly/32XH2jc) , [CS Dogo](https://www.youtube.com/watch?v=vYquumk4nWw&list=PLBZBJbE_rGRU5PrgZ9NBHJwcaZsNpf8yD) | 
 
-| 38-40 | Mock Interview Practice | Any is fine. Recommendations: https://www.pramp.com/ , https://www.interviewcake.com/ , https://interviewing.io/ | 5-10+ | https://www.makeuseof.com/tag/mock-interview-websites/ |
-
-
+| 38-40 | Mock Interview Practice | Any is fine. Recommendations: [Pramp](https://www.pramp.com/) , [Interview Cake](https://www.interviewcake.com/) , [Interviewing IO](https://interviewing.io/) | 5-10 | [Mock Interview Sites](http://bit.ly/2ZoFmgp) |
 
 # Extra Resources (Coming Soon)
 
   ## Books
-| Book Title | Author | | Resource Link |
-| ------------- | ------------- |
-| N/A  | N/A  | N/A  |
-| N/A  | N/A  | N/A  |
+| Book Title | Author | Resource Link |
+| ------------- | ------------- | ------------- |
+| N/A  | N/A | N/A |
+| N/A  | N/A | N/A |
 
   ## Learning Platforms (Coming Soon)
 | Online Learning Platforms | Resource Link |
 | ------------- | ------------- |
-| N/A  | N/A  |
-| N/A  | N/A  |
+| N/A  | N/A |
+| N/A  | N/A |
 
 # Cheat Sheets 
 
