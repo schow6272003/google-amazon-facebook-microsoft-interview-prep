@@ -21,7 +21,7 @@ Discrete Mathematics/Structures, Algorithms & Data Structures, Programming in C/
 ## General Learning Timeline (6 - 8 months)
 
 | Week Timeline | Topic | Suggested Content | Suggested Hours | Online Resources |
-| --- | --- | --- | --- | --- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 
 | 1-8 | Discrete Math/Structures | See book section below for expanded list. Recommendations: https://www.amazon.com/Mathematical-Structures-Computer-Science-Gersting-ebook/dp/B00V46MKGG | 100-200 | Recommendations: https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz | 
 
@@ -41,16 +41,15 @@ Discrete Mathematics/Structures, Algorithms & Data Structures, Programming in C/
 
   ## Books
 | Book Title | Author | | Resource Link |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | N/A  | N/A  | N/A  |
 | N/A  | N/A  | N/A  |
 
   ## Learning Platforms (Coming Soon)
 | Online Learning Platforms | Resource Link |
-| ------------- |------------- |
+| ------------- | ------------- |
 | N/A  | N/A  |
 | N/A  | N/A  |
-
 
 # Cheat Sheets 
 
@@ -59,8 +58,8 @@ Discrete Mathematics/Structures, Algorithms & Data Structures, Programming in C/
 # Interview Topics 
 
 ## Algorithm Complexity: Big-O notation. 
-###### Worst and Best Time complexity. 
-###### Worst Space Complexity
+### Worst and Best Time complexity. 
+### Worst Space Complexity
 ## Sorting: Know how to sort.  Don't do bubble-sort.  You should know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort).  Merge sort can be highly useful in situations where quicksort is impractical, so take a look at it.  
 ### Quick Sort
 ### Merge Sort
