@@ -31,17 +31,21 @@ Discrete Mathematics/Structures, Algorithms & Data Structures, Programming in C/
 
 # Extra Resources 
 
-  ## Books (Coming Soon)
-| Book Title | Author | Resource Link |
-| ------------- | ------------- | ------------- |
-| N/A  | N/A | N/A |
-| N/A  | N/A | N/A |
+  ## Books (Extra Coming Soon)
+| Book Title | Author | Edition | Resource Link |
+| ------------- | ------------- | ------------- | ------------- |
+| Introduction to Algorithms  | Thomas Cormen | 3rd | [CLRS](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) |
+| Algorithms Unlocked  | Thomas Cormen | 1st | [Algorithms Unlocked](https://www.amazon.com/Algorithms-Unlocked-Press-Thomas-Cormen/dp/0262518805) | 
+| Cracking The Coding  | Gayle Laakmann McDowell | 3rd | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) |
 
-  ## Learning Platforms (Coming Soon)
+  ## Learning Platforms (Extra Coming Soon)
 | Online Learning Platforms | Resource Link |
 | ------------- | ------------- |
-| N/A  | N/A |
-| N/A  | N/A |
+| LeetCode| [LeetCode](https://leetcode.com/) |
+| Udacity  | [Udacity](https://udacity.com/) |
+| Udemy  | [Udemy](https://udemy.com/) |
+| Educative  | [LeetCode](https://www.educative.io/)|
+| HackerRank  | [HackerRank](https://www.hackerrank.com/)|
 
 
 # Cheat Sheets 
